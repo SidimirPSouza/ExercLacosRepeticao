@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AnoNovo/AnoNovo.csproj" />
+  <Project Path="DoWhileAnoNovo/DoWhileAnoNovo.csproj" />
+  <Project Path="fatorial/fatorial.csproj" />
+  <Project Path="fibonacci/fibonacci.csproj" />
+  <Project Path="ForAnoNovo/ForAnoNovo.csproj" />
+  <Project Path="ImparPar/ImparPar.csproj" />
+  <Project Path="Primos/Primos.csproj" />
+  <Project Path="Tabuada/Tabuada.csproj" />
+</Solution>
